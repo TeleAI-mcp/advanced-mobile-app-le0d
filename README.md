@@ -1,2 +1,3 @@
-# advanced-mobile-app-le0d
-A mobile application for modern development workflows
+# Advanced Mobile App Le0D
+
+A mobile application for modern development workflows.
